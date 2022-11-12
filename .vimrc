@@ -25,6 +25,8 @@ filetype indent on
 " Turn syntax highlighting on.
 syntax on
 
+colorscheme koehler
+
 " Add numbers to the file.
 set number
 
